@@ -1,2 +1,3 @@
 # Flight-price-prediction-EDA
 Flight price prediction EDA and feature engineering with datasets
+For flight price prediction EDA and feature engineering with Kaggle datasets, initial analysis would involve examining variables such as departure/arrival locations, dates, airlines, and flight durations. Through EDA techniques like data visualization and statistical summaries, insights into price distributions, seasonal trends, and correlations can be uncovered. Feature engineering may include creating new features such as day of the week, time of the day, or distance between airports, which can enhance model performance in predicting flight prices accurately.
